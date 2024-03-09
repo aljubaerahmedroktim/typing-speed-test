@@ -1,0 +1,1 @@
+export const RESULT = "result/addition";
